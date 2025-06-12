@@ -1,4 +1,4 @@
-# talentghn-profile<!DOCTYPE html>
+# talentghn-profile
 <html lang="vi" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
